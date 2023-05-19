@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gonzaguepatinier
 
 - 👀 I’m interested in ...
-- 3D Engine
-- 3D Design
+-- 3D Engine
+-- 3D Design
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
