@@ -1,20 +1,23 @@
-Hi,
+🎮 Passionate about interactive learning, gamification, and simulations.
 
-I’m @gonzaguepatinier
+With 20+ years in IT consulting (ITSM, PMO, DevOps), I'm now exploring the creative world of 3D engines and game development to build engaging learning experiences.
 
-- 👀 I’m interested in:
-    - 3D Engine
-    - 3D Modeling
-    - GODOT
+👀 Currently exploring:
+- 🕹️ Game Engines: GODOT, GDEVELOP
+- 🧊 3D Modeling: Blender, BlockBench
+- 📐 Simulation & Serious Games Design
+- 🛠️ Agile tools: JIRA, SCRUM (refresh)
 
-- 🌱 I’m currently learning:
-    - SCRUM (refresh)
-    - JIRA 
-- 💞️ I’m looking to collaborate on:
-    - Game design 
-- 📫 How to reach me:
-    - Email
-    - LinkedIn 
+💞️ Open to collaborate on:
+- 🎲 Educational Game & Simulation Design
+- 🎓 Gamified learning experiences for IT & Business
+- 🤝 Projects blending tech, storytelling & coaching
+
+📫 Reach out via:
+- ✉️ Emai
+- 💼 LinkedIn
+
+
 
 <!---
 gonzaguepatinier/gonzaguepatinier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
